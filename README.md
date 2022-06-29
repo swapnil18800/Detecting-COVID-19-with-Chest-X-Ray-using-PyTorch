@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-mohd--faizy-red)](https://github.com/mohd-faizy)
+[ 
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-markdown-blue)
 ![Language](https://img.shields.io/github/languages/top/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)
 ![Platform](https://img.shields.io/badge/platform-jupyter%20labs-blue)
